@@ -1,0 +1,33 @@
+#about{
+	width:88%;
+}
+#taskForm{
+	padding: 10px 20px; 
+}
+#taskValue, #dateValue,#timeValue{
+	margin-bottom: 24px;
+	width: 88%;
+	max-width: 88%;
+}
+#taskValue{
+	text-overflow: ellipsis;
+}
+#task{
+	height: 70px;
+    max-height: 70px;
+    /*overflow-y: scroll;*/  
+}
+#submit{
+	position: fixed;
+}
+#deleteDialog{
+	max-width:340px;
+	padding-bottom:2em;
+}
+h1{
+	color: aqua;
+}
+
+h4{
+	color: aqua;
+}
